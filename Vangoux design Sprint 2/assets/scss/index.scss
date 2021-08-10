@@ -1,0 +1,16 @@
+@import '_variables.scss';
+@import '_breakpoint.scss';
+@import '_headline.scss';
+@import '_reviews.scss';
+@import '_header.scss';
+@import '_featur.scss';
+@import '_users.scss';
+@import '_purpose.scss';
+@import '_consultation.scss';
+@import '_stories.scss';
+@import '_footer.scss';
+@import '_wokflow.scss';
+html {
+    font-family: $main-font;
+    font-weight: 600;
+}
